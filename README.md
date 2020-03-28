@@ -4,7 +4,7 @@ This simple library and CLI flattens a directory recursively.
 
 ## CLI
 
-### Instalation
+### Installation
 
 ```sh
 cargo install flatten_dir
@@ -18,7 +18,7 @@ flatten_dir <path>
 
 ## Library
 
-### Instalation
+### Installation
 
 ```toml
 # In Cargo.toml
